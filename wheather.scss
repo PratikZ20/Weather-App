@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-div{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(papayawhip, white);
+}
+
+.second-div{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: block;
+    padding: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+input{
+    height: 30px;
+    width:200px;
+}
+
+button{
+    height: 30px;
+    width: 70px;
+    color:white;
+    background-color: black;
+    border-radius: 5px ;
+}
+
